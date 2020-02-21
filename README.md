@@ -3,10 +3,11 @@
  
  -- INSTRUCTIONS --
  
- Install all necessary drivers for the leap motion. 
- Install the Arduino IDE
- Install Node.js
+ This is all based on this project https://www.instructables.com/id/Robotic-Hand-controlled-by-Gesture-with-Arduino-Le/
+ It is just adapted to work with another prosthetic hand, the brunel hand 2.0 by OpenBionics.
+ Follow all the instructions in the link and replace the script folder with the one in this repository. 
+ I kept the original app from user Acali on Instructables but changed its name to app_original.
+ My version is the one called app.js in the Script folder in this Repository. 
  
- Open up a terminal window and navigate to your project file. 
- type : node app.js
- see your hand move the prosthesis
+ Vladimir Hermand 
+ 2020
